@@ -1,4 +1,3 @@
-
-Some of my work in python
+Some of my work in javascript
 =====
 
